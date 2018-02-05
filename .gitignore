@@ -1,4 +1,3 @@
-/node_modules
-.vscode/
-/public
-.deploy_git/
+node_modules/
+public/
+.deploy*/
